@@ -1,0 +1,13 @@
+stappenplan commando's:
+git --> opent git
+mkdir "naam directory" --> aanmaken nieuwe directory voor project (naam overeen laten komen met repository in github)
+cd "naam directory" --> nagiveren naar directory
+echo "gekozen tekst" >> README.md --> opslaan/aanvullen comments
+cat README.md --> lezen comments
+git init --> directory managen door git
+git add "filename" --> aanzetten change tracking
+git commit -m "omschrijving commit" --> change commit tracking
+git remote add "naam connectie" "https://github.com/<username>/<naam directory>.git --> connectie met github maken
+git push -u origin master
+
+ 
